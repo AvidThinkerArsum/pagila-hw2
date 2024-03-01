@@ -2,7 +2,7 @@
 
 [![](https://github.com/AvidThinkerArsum/pagila-hw2/workflows/tests/badge.svg)](https://github.com/AvidThinkerArsum/pagila-hw2/actions)
 
-This is the second SQL homework in CMC's CSCI143: Big Data class.
+This is the second SQL homework in CMC's CSCI143: Big Data class. It builds on homework 1.
 
 ## Tasks
 

@@ -3,7 +3,7 @@
  * Your task is to list these customers.
  *
  * HINT:
- * In problem 16 of pagila-hw1, you ordered the films by most profitable.
+ * In problem 16 of pagila-hw1(last hw), you ordered the films by most profitable.
  * Modify this query so that it returns only the film_id of the top 5 most profitable films.
  * This will be your subquery.
  * 
