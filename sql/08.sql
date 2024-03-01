@@ -5,3 +5,11 @@
  * HINT:
  * Use `unnest(special_features)` in a subquery.
  */
+
+
+SELECT DISTINCT f.title
+FROM film f
+WHERE f.rating = 'G'
+AND 'Trailers' = ANY(f.special_features)
+ORDER BY f.title;
+
