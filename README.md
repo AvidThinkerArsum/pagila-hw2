@@ -1,6 +1,6 @@
 # pagila-hw2
 
-[![](https://github.com/AvidThinkerArsum/pagila-hw2/workflows/tests/badge.svg)](https://github.com/Avi    dThinkerArsum/pagila-hw2/actions)
+[![](https://github.com/AvidThinkerArsum/pagila-hw2/workflows/tests/badge.svg)](https://github.com/AvidThinkerArsum/pagila-hw2/actions)
 
 This is the second SQL homework in CMC's CSCI143: Big Data class.
 
